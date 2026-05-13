@@ -238,3 +238,14 @@ footer { padding: 60px 20px; text-align: center; opacity: 0.5; font-size: 0.8rem
     .hero { padding-bottom: 100px; }
     .video-section { padding: 60px 15px; }
 }
+
+.footer-link {
+    color: #ffffff;
+    font-weight: bold;
+    text-decoration: underline;
+    transition: opacity 0.3s ease;
+}
+
+.footer-link:hover {
+    opacity: 0.8;
+}
