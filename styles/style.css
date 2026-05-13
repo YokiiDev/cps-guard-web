@@ -41,6 +41,18 @@ body {
     opacity: 0.5;
 }
 
+.footer-link {
+    color: #ffffff;
+    font-weight: bold;
+    text-decoration: underline;
+    transition: opacity 0.3s ease;
+}
+
+.footer-link:hover {
+    opacity: 0.8;
+}
+
+
 .hero {
     min-height: 100vh;
     display: flex;
